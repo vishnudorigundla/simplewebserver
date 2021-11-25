@@ -50,6 +50,13 @@ print("my webserver is running...")
 httpd.serve_forever()
 
 ## OUTPUT:
+### Client side images:
+![Client side](/Images/clientside1.png)
+### Server side images:
+![Server side](/Images/serverside1.png)
+![Server side](/Images/serverside2.png)
+![Server side](/Images/serverside3.png)
 
 
 ## RESULT:
+Thus the simple webserver to show top 5 programming languages is completed sucessfully.
